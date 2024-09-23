@@ -395,12 +395,9 @@ Row | Item | Description | Completed
 11 | 9a | Link to `first-website` github.com repo page | [first website repo page](https://siqjulia.github.io/first-website/)
 12 | 9a | Link to `first-website` github.io "project site" | [first website page](https://siqjulia.github.io/first-website/)
 13 | 10a | What is in Owen's dev branch? | I believe I just got rick-rolled. That really caught me off guard. 
-14 | 10b | Link to your new branch on github.com | 
-15 | 10c | Link to your network graph | Something went wrong when I tried to do this. I sent you a slack. 
-16 | 10d | Link to the PR you made on a partner's github.com repo | Do we do this when we get to class? 
-
-
-
+14 | 10b | Link to your new branch on github.com | [My Branch](https://github.com/siqjulia/learn-git-milestones/tree/julia-changes)
+15 | 10c | Link to your network graph | [Network Graph](https://github.com/siqjulia/learn-git-milestones/network)
+16 | 10d | Link to the PR you made on a partner's github.com repo | [PR on Pacis' First Website](https://github.com/siqjulia/first-website)
 
 
 ## Resources
