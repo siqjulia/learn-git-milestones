@@ -382,23 +382,22 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 
 Row | Item | Description | Completed
 --- | --- | --- | ---
-1 | 4a | 1st Favorite emoji | ADD_TEXT_HERE
-2 | 4b | Link to `commit #1 from Github.com` |
-3 | 4c | Link to markdown tables docs |
-4 | 4d | What does `log` do? |
-5 | 5a | 2nd Favorite emoji |
-6 | 5b | Link to `commit #2 from Github Desktop` |
-7 | 6a | Full path to your working directory |
-8 | 6b | Link to `commit #3 from CLI` |
-9 | 7 | 3rd Favorite emoji |
-10 | 8 | Link to `commit #4 from VS Code` |
-11 | 9a | Link to `first-website` github.com repo page |
-12 | 9a | Link to `first-website` github.io "project site" |
-13 | 10a | What is in Owen's dev branch? | 
-14 | 10b | Link to your new branch on github.com | 
-15 | 10c | Link to your network graph | 
-16 | 10d | Link to the PR you made on a partner's github.com repo | 
-
+1 | 4a | 1st Favorite emoji | 😔
+2 | 4b | Link to `commit #1 from Github.com` | [commit #1 from github.com](https://github.com/siqjulia/learn-git-milestones/commit/4783a5b236e34dc6794838d55ec7f71ff05e5383)
+3 | 4c | Link to markdown tables docs | [link to markdown tables documentation](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+4 | 4d | What does `log` do? | git log shows you a history of the commits you've made to a repository I think, but I'm not sure where to type it in to see the log?
+5 | 5a | 2nd Favorite emoji |🤭
+6 | 5b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/2783e8923600b0dee8f06938cc5b13c31dbb0dda)
+7 | 6a | Full path to your working directory | /Users/juliasiqueira/Critical Web Design /learn-git-milestones
+8 | 6b | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/4062a48345b3efb6ba83652974a5be3678e213bd)
+9 | 7 | 3rd Favorite emoji | 🥱
+10 | 8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/omundy/learn-git-milestones/commit/17799dc3d7732a2667acfb9ac14ffc320bb46c8b)
+11 | 9a | Link to `first-website` github.com repo page | [first website repo page](https://siqjulia.github.io/first-website/)
+12 | 9a | Link to `first-website` github.io "project site" | [first website page](https://siqjulia.github.io/first-website/)
+13 | 10a | What is in Owen's dev branch? | I believe I just got rick-rolled. That really caught me off guard. 
+14 | 10b | Link to your new branch on github.com | [My Branch](https://github.com/siqjulia/learn-git-milestones/tree/julia-changes)
+15 | 10c | Link to your network graph | [Network Graph](https://github.com/siqjulia/learn-git-milestones/network)
+16 | 10d | Link to the PR you made on a partner's github.com repo | [PR on Pacis' First Website](https://github.com/siqjulia/first-website)
 
 
 
